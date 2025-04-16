@@ -1,0 +1,1 @@
+// Frontend UI - Next.js chat interface
